@@ -1,1 +1,2 @@
-# mcis6273-s25-datamining
+Hello!
+SaiSunanda is my Zotero username and here's the link for my git repo
